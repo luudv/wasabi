@@ -17,7 +17,6 @@ If you are on Laravel 5.4 or earlier, then register the service provider in app.
     Luudv\Wasabi\WasabiServiceProvider::class,
 ]
 ```
-
 If you are on Laravel 5.5 or higher, composer will have registered the provider automatically for you.
 
 Add a new disk to your `filesystems.php` config
