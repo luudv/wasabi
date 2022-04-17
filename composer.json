@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ProbablyRational\\Wasabi\\WasabiServiceProvider"
+                "Luudv\\Wasabi\\WasabiServiceProvider"
             ]
         }
     },
