@@ -14,7 +14,7 @@ If you are on Laravel 5.4 or earlier, then register the service provider in app.
 ```php
 'providers' => [
     // ...
-    Luudv\Wasabi\WasabiServiceProvider::class,
+    \Luudv\Wasabi\WasabiServiceProvider::class,
 ]
 ```
 
