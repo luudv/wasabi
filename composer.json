@@ -1,5 +1,5 @@
 {
-    "name": "luudv/wasabi-storage",
+    "name": "luudv/wasabi",
     "description": "A wasabi storage driver for Laravel",
     "type": "library",
     "require": {
