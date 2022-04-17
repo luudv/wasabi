@@ -19,13 +19,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "\\Luudv\\Wasabi\\WasabiServiceProvider"
+                "Luudv\\Wasabi\\WasabiServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "ProbablyRational\\Wasabi\\": "src/"
+            "Luudv\\Wasabi\\": "src/"
         }
     }
 }
