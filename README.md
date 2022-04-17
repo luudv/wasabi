@@ -24,7 +24,7 @@ Add a new disk to your `filesystems.php` config
 
 ```php
 'wasabi' => [
-    'driver' => 'wasabi',
+    'driver' => 's3',
     'key' => env('WASABI_ACCESS_KEY_ID'),
     'secret' => env('WASABI_SECRET_ACCESS_KEY'),
     'region' => env('WASABI_DEFAULT_REGION', 'eu-central-1'),
